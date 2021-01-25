@@ -1,0 +1,21 @@
+body{
+	background: #e0e0d1;
+}
+
+#frmpage{
+	border: solid gray 1px;
+	width: 20%;
+	border-radius: 5px;
+	margin: 100px auto;
+	background: white;
+	padding: 50px;
+}
+#btn{
+	color: #fff;
+	background: #337ab7;
+	padding: 5px;
+}
+.slide{
+	margin-right: 10%;
+	margin-left: 10%;
+}
